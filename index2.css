@@ -1,0 +1,13 @@
+* {
+text-align: center;
+background-color: rgb(224, 154, 154) !important;
+}
+
+ h1 {
+     font-size: 60pt;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+
+    h2 {
+        font-size: 40pt;
+    }
